@@ -1,3 +1,4 @@
+//안전영역
 #include <iostream>
 #include <algorithm>
 #define MAX 100
