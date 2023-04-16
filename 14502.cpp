@@ -1,4 +1,4 @@
-//연구소 16시 시작
+//연구소
 #include <iostream>
 #include <algorithm>
 using namespace std;
