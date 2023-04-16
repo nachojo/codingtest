@@ -1,4 +1,4 @@
-//게리맨더링
+//게리맨더링 
 #include <iostream>
 #include <cmath>
 #include <vector>
