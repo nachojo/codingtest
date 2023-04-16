@@ -1,4 +1,4 @@
-// 배열돌리기2
+// 배열돌리기2 
 #include <iostream>
 #include <cstdlib>
 #define MAX_N 301
