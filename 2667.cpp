@@ -1,4 +1,4 @@
-//단지번호 붙이기 BFS
+//단지번호 붙이기
 #include <iostream>
 #include <queue>
 #include <algorithm>
