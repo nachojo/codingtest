@@ -1,3 +1,4 @@
+//감시
 #include <iostream>
 #include <algorithm>
 #define MAX 8
