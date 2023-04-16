@@ -1,4 +1,4 @@
-//도영이가 만든 맛있는 음식
+//도영이가 만든 맛있는 음식 
 #include <iostream>
 #include <climits>
 #define MAX 10
