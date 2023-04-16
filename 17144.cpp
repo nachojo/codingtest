@@ -1,4 +1,4 @@
-//배열돌리기 미세먼지 공기청정기
+//미세먼지 안녕!
 #include <iostream>
 using namespace std;
 #define MAX_C 50
