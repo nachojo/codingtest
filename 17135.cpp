@@ -21,9 +21,6 @@ int main()
       cin >> aEnemy[i][j];
     }
   }
-  //궁수 위치 써준건데 안해도 될듯
-  // for (int i = 0; i < m; i++)
-  //   aEnemy[n][i] = -1;
   cout << Combination();
   //동적할당 해제
   for (int i = 0; i < MAX_N; i++)
