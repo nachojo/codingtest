@@ -1,4 +1,4 @@
-//탈출
+//탈출 
 #include <iostream>
 #include <queue>
 #define MAX 55
